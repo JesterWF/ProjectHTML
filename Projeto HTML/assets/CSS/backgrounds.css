@@ -1,0 +1,27 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+div {
+    /* centralizar div com background color */
+    width: 80%;
+    height: 400px;
+    /* background-color: #900; */
+    margin: 20px auto;
+    /* ....................... */
+
+    /* centralizar div com imagem */
+    background-image: url(../Imagens/pexels-technobulka-2908984.jpg);
+    /* para a imagem não repetir quando dar zoom out */
+    background-repeat: no-repeat;
+    /* para oculpar todo o container complementando a backgorund repeat */
+    background-size: cover;
+    /* podendo usar até 2 parametros, exemplo 20px 40px, porcentagem, e indicativos, center é ao meio, 50% o meio tbm. */
+    background-position: center ;
+    /* background-attachment tem fixed e scroll */
+    background-attachment:fixed;
+}
+
+p {
+    background-color: #900;
+}

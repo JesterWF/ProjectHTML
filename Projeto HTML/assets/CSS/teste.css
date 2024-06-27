@@ -1,0 +1,12 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+div {
+    /* width pode ser usado em porcentagem, e fixos(exemplos: 100%, 50px) normalmente deixado no auto. */
+    width: 50%;
+    height: auto;
+    background-color: #ccc;
+    /* overflow serve para controlar o estouro da div (o auto não é muito usada, o hidden é mais utilizada)  */
+    /* overflow: auto; */
+}

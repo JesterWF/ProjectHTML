@@ -1,0 +1,44 @@
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    /* fonte size é o tamanho */
+    font-size: 45px;
+    text-align: center;
+}
+
+p {
+    /* font-weight é a espessura da fonte  */
+
+    font-weight: 600;
+    font-size: 20px;
+    /* font style é a formatação, italic, normal, oblique */
+
+    font-style: normal;
+    /* Alinhamento de texto, left, right, center, justify*/
+
+    text-align: left;
+    /* Decoração abaixo do texto, sublinhado e afins */
+
+    /* text-decoration: line-through, underline, overline;*/
+    
+    /* transformar texto em full maisculo, ou full minusculo, ou todo inicio letra maiscula */
+
+    /* uppercase, lowercase, capitalize */
+
+    text-transform: lowercase;
+
+    /* Espaço entre as palavras */
+
+    word-spacing: 0px;
+
+    /* espaço entre as letras */
+
+    letter-spacing: 0px;
+
+    /* espaço entre as linhas */
+
+    line-height: 38px;
+}

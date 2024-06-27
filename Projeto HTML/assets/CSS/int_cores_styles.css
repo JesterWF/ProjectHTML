@@ -1,0 +1,20 @@
+
+h2 {
+    /* COR USANDO RGB */
+    color: rgb(52, 16, 198);
+}
+
+h2 {
+    /* COR USANDO HEXADECIMAL */
+    color: #282896;
+}
+
+h2 {
+    /* COR USANDO HSL */
+    color: hsl(240, 100%, 50%);
+}
+
+h2 {
+    /* COR USANDO HWB */
+    color: hwb(240 0% 0%);
+}

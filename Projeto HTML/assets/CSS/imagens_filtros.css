@@ -1,0 +1,29 @@
+body {
+
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+}
+
+img {
+    /* tamanho da imagem */
+    width: 50%;
+    /* Alterar a borda da imagem */
+    /* Da pra alterar a extremidade acrescentando */
+    /* border-radius: 10px 10px 10px 10px; */
+    border-radius: 25px;
+    /* filtro de desfoque */
+    filter: blur(0px);
+    /* Filtro de brilho */
+    filter: brightness(100%);
+    /* Filtro de opacidade */
+    filter: opacity();
+    /* Filtro de saturação */
+    filter: saturate(200%);
+    /* Filtro de contraste */
+    filter: contrast(125%);
+    /* filtro de dropshadow(sombra), 1° sombras laterais, 2° sombras baixo/cima, 3° desfoque, 4° cor da sombra */
+    filter: drop-shadow(8px 8px 15px #000);
+    /* filtro de para deixar a imagem cinza */
+    filter: grayscale(70%);
+
+}

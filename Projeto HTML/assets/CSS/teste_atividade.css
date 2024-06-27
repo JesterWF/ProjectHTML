@@ -1,0 +1,27 @@
+/* Estilos personalizados */
+body {
+    background-color: #f0f0f0;
+    /* Cor de fundo */
+    color: #333;
+    /* Cor do texto */
+}
+
+/* Estilize os elementos conforme necessário */
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+/* Adicione mais estilos para os ícones, se necessário */
+.icon {
+    /* Estilos para ícones aqui */
+}
+
+/* Estilo para o texto de débito automático desativado */
+.toggle-disabled {
+    color: red;
+}

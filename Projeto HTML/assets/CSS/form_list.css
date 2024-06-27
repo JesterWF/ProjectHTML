@@ -1,0 +1,28 @@
+body {
+
+    font-family: "Poppins", sans-serif;
+}
+
+ol {
+
+    /* Mudar o estilo da lista */
+
+    list-style: upper-roman;
+
+    font-size: 40px;
+}
+
+ul {
+    font-size: 40px;
+
+    /* Mudar o estilo da lista */
+    
+    list-style: square;
+
+    /* Para colocar uma imagem */
+
+    /* list-style: url(../Imagens/logo-html-5-256.png); */
+    
+
+    
+}

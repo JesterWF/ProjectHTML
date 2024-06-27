@@ -1,0 +1,23 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+div {
+    /* use o minimo e max para ajustar o tamanho da altura e largura */
+    max-width: 300px;
+    min-height: 250px;
+    background-color: #ccc;
+    /* 20px = cima, 60 px = direita, 80 px = baixo, 120 px = esquerda, sempre sentido horario */
+    /* margin: 20px 60px 80px 120px ;
+    margin-left: 30px;
+    margin-bottom: 60px; */
+    margin: 20px;
+    /* border-width: 8px;
+    border-style: solid;
+    border-color: #dc143c; */
+    /* Estilos de borda, Solid, Dashed, Dotted, Double, Inset, Outset, Groove, Ridge */
+    border: 3px solid #dc143c;
+    border-radius: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+}
